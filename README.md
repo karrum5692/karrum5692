@@ -7,7 +7,7 @@
 <div>
 
 
-2021.06 ~ 2021~11.24 Front-end 과정 완료 </br></br>
+2021.06 ~ 2021~11.24 KHsmartcampus Front-end 과정 완료 </br></br>
 
 2022.06 ~ now 메타버스 아카데미 1기 교육생 </br>
 
