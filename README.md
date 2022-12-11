@@ -1,6 +1,6 @@
-<h1>Hello World!</h1>
+<h1> print("Hello World!")</h1>
 
-### Hi there 👋
+### system.out.println("Hi there 👋");
 
 다들 반갑습니다.
 
