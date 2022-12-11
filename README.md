@@ -16,6 +16,7 @@
 
 <hr>
 <p>
+  2021 : 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -30,9 +31,31 @@
 
   <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white"/>
   
-
- 
 </p>
+
+<p>
+  2022 : 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=YOLO&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
+  
+</p>
+
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karrum5692&layout=compact&theme=dark&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
