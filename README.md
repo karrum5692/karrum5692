@@ -27,8 +27,6 @@
   
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat-square&logo=Eclipse__IDE &logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white"/>
   
 </p>
@@ -46,8 +44,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=YOLO&logoColor=black"/>
-  
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
   
