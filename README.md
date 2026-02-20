@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  
+
   <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white"/>
   
 </p>
@@ -45,7 +45,8 @@
   
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=YOLO&logoColor=black"/>
   
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
+  
   
 </p>
 
