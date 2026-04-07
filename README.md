@@ -52,11 +52,6 @@
 
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karrum5692)](https://github.com/karrum5692/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karrum5692)](https://github.com/karrum5692/github-readme-stats)
-
 **karrum5692/karrum5692** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
