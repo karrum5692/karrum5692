@@ -57,6 +57,8 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Prisma-234A5F?style=flat-square&logo=Prisma&logoColor=white"/>
 </p>
 
 
