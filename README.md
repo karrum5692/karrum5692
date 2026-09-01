@@ -2,7 +2,6 @@
 
 **Node.js · TypeScript · Express · Prisma · PostgreSQL**
 
-측정으로 원인을 좁히고, 팀이 같은 방식으로 일하게 만드는 것에 관심이 있습니다.
 
 ```java
 System.out.println("Hi there 👋");     // 2021
