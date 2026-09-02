@@ -27,11 +27,11 @@ console.log("다들 반갑습니다.");         // 2026
 
 ### Projects
 
-| | 기간 | 한 일 |
-|---|---|---|
-| **[MOVING](https://github.com/karrum5692/portfolio/blob/main/projects/moving.md)** | 2026.07 ~ 08 | 관리자 대시보드 API 응답 33.8s → 4ms |
-| **[최애의 포토](https://github.com/karrum5692/portfolio/blob/main/projects/my-favorite-photo.md)** | 2026.06 | PM · 6개 도메인 통합, 로그 수집 체계 구축 |
-| **[Forest of Learning](https://github.com/karrum5692/portfolio/blob/main/projects/forest-of-learning.md)** | 2026.04 | 집중 타이머 시각 계산, 포인트 지급 로직 |
+| | 기간 | 한 일 | Stack |
+|---|---|---|---|
+| **[MOVING](projects/Moving.md)** | 2026.07 ~ 08 | 관리자 대시보드 API 응답 33.8s → 0.38s | Express · Prisma · PostgreSQL · AWS RDS · Sentry |
+| **[최애의 포토](projects/My_favorite_photo.md)** | 2026.06 | PM · 6개 도메인 통합, 로그 수집 체계 구축 | Express · Prisma · JavaScript · Sentry |
+| **[공부의 숲](projects/Forest-of-learning.md)** | 2026.04 | 집중 타이머 시각 계산, 포인트 지급 로직 | React · Vite · Express · Prisma |
 
 **[→ 전체 포트폴리오](https://github.com/karrum5692/portfolio)**
 
