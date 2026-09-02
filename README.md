@@ -1,4 +1,4 @@
-# 심현수 · Backend Developer
+# Backend Developer
 
 **Node.js · TypeScript · Express · Prisma · PostgreSQL**
 
